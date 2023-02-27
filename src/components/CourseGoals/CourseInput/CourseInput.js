@@ -28,15 +28,6 @@ margin: 0.5rem 0;
   background: #fad0ec;
   border-color: #8b005d;
 }
-
-&.invalid input{
-  border-color: red;
-  background-color: salmon;
-}
-
-&.invalid label {
-  color: red;
-}
 `;
 
 const CourseInput = (props) => {
